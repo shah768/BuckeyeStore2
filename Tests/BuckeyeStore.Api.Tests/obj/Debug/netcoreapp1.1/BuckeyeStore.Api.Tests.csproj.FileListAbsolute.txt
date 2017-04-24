@@ -1,0 +1,15 @@
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.Tests.deps.json
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.Tests.runtimeconfig.json
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.Tests.runtimeconfig.dev.json
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.Tests.dll
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.Tests.pdb
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.dll
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\bin\Debug\netcoreapp1.1\BuckeyeStore.Core.dll
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\bin\Debug\netcoreapp1.1\BuckeyeStore.Core.pdb
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.pdb
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\obj\Debug\netcoreapp1.1\BuckeyeStore.Api.Tests.AssemblyInfo.cs
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\obj\Debug\netcoreapp1.1\BuckeyeStore.Api.Tests.dll
+C:\AMIS3610\Buckeyestore2\Tests\BuckeyeStore.Api.Tests\obj\Debug\netcoreapp1.1\BuckeyeStore.Api.Tests.pdb

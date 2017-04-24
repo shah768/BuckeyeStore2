@@ -1,0 +1,10 @@
+C:\AMIS3610\Buckeyestore2\Source\BuckeyeStore.Api\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.deps.json
+C:\AMIS3610\Buckeyestore2\Source\BuckeyeStore.Api\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.runtimeconfig.json
+C:\AMIS3610\Buckeyestore2\Source\BuckeyeStore.Api\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.runtimeconfig.dev.json
+C:\AMIS3610\Buckeyestore2\Source\BuckeyeStore.Api\obj\Debug\netcoreapp1.1\BuckeyeStore.Api.AssemblyInfo.cs
+C:\AMIS3610\Buckeyestore2\Source\BuckeyeStore.Api\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.dll
+C:\AMIS3610\Buckeyestore2\Source\BuckeyeStore.Api\bin\Debug\netcoreapp1.1\BuckeyeStore.Api.pdb
+C:\AMIS3610\Buckeyestore2\Source\BuckeyeStore.Api\bin\Debug\netcoreapp1.1\BuckeyeStore.Core.dll
+C:\AMIS3610\Buckeyestore2\Source\BuckeyeStore.Api\bin\Debug\netcoreapp1.1\BuckeyeStore.Core.pdb
+C:\AMIS3610\Buckeyestore2\Source\BuckeyeStore.Api\obj\Debug\netcoreapp1.1\BuckeyeStore.Api.dll
+C:\AMIS3610\Buckeyestore2\Source\BuckeyeStore.Api\obj\Debug\netcoreapp1.1\BuckeyeStore.Api.pdb

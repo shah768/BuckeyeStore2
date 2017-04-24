@@ -3708,16 +3708,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AMIS3610\\Buckeyestore2\\Source\\BuckeyeStore.Core\\BuckeyeStore.Core.csproj",
+      "projectUniqueName": "C:\\AMIS3610\\BuckeyeStore2\\Source\\BuckeyeStore.Core\\BuckeyeStore.Core.csproj",
       "projectName": "BuckeyeStore.Core",
-      "projectPath": "C:\\AMIS3610\\Buckeyestore2\\Source\\BuckeyeStore.Core\\BuckeyeStore.Core.csproj",
-      "outputPath": "C:\\AMIS3610\\Buckeyestore2\\Source\\BuckeyeStore.Core\\obj\\",
+      "projectPath": "C:\\AMIS3610\\BuckeyeStore2\\Source\\BuckeyeStore.Core\\BuckeyeStore.Core.csproj",
+      "outputPath": "C:\\AMIS3610\\BuckeyeStore2\\Source\\BuckeyeStore.Core\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
       ],
       "files": {
-        "lib/netstandard1.4/BuckeyeStore.Core.dll": "C:\\AMIS3610\\Buckeyestore2\\Source\\BuckeyeStore.Core\\bin\\placeholder\\netstandard1.4\\BuckeyeStore.Core.dll"
+        "lib/netstandard1.4/BuckeyeStore.Core.dll": "C:\\AMIS3610\\BuckeyeStore2\\Source\\BuckeyeStore.Core\\bin\\placeholder\\netstandard1.4\\BuckeyeStore.Core.dll"
       },
       "frameworks": {
         "netstandard1.4": {
